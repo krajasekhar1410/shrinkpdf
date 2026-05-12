@@ -1,0 +1,6 @@
+{
+  "name": "ShrinkPDF",
+  "description": "Client-side PDF compressor that estimates sizes and compresses them rapidly using adjustable visual quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
